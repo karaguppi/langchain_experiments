@@ -1,5 +1,5 @@
 """
-Future Enhancements:
+Future Enhancements: 
 1. Move the core logic to seperate file similar to a backend system and only expose required
 methods to front end code. 
 2. Adding unit tests and E2E tests to ensure application is working as expected. 
